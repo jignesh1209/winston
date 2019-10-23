@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 100
+    },
+    "auditLog": "C:\\Jignesh Prajapati\\Node.js\\winston\\winstonconfg\\logs\\access\\.d6b560d2fa3294ee21423a754e6fdc8155daf11c-audit.json",
+    "files": [
+        {
+            "date": 1564036311416,
+            "name": "C:\\Jignesh Prajapati\\Node.js\\winston\\winstonconfg\\logs\\access\\2019-07-25.log",
+            "hash": "e6c3717ccd33a97022375e535edb17ee"
+        }
+    ]
+}

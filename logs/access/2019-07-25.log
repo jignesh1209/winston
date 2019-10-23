@@ -1,0 +1,5 @@
+{"message":"::1 - - [25/Jul/2019:06:31:58 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0\"\n","level":"info"}
+{"message":"::1 - - [25/Jul/2019:06:31:58 +0000] \"GET /stylesheets/style.css HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0\"\n","level":"info"}
+{"message":"{err.status || 500} - Not Found - /jignesh - GET - ::1","level":"error"}
+{"message":"::1 - - [25/Jul/2019:09:22:32 +0000] \"GET /jignesh HTTP/1.1\" 404 1312 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0\"\n","level":"info"}
+{"message":"::1 - - [25/Jul/2019:09:22:32 +0000] \"GET /stylesheets/style.css HTTP/1.1\" 304 - \"http://localhost:3000/jignesh\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0\"\n","level":"info"}
