@@ -11,8 +11,8 @@ var options = {
         timestamp: true,
         handleExceptions : true,
         json: true,
-        maxsize: 5242880,
-        maxFiles: 100,
+        maxsize: '1k',
+        maxFiles: '2',
         colorize: true
     },
     error: {
@@ -23,8 +23,8 @@ var options = {
         timestamp: true,
         handleExceptions : true,
         json: true,
-        maxsize: 5242880,
-        maxFiles: 100,
+        maxsize: '1k',
+        maxFiles: '2',
         colorize: true
     },
     console: {
